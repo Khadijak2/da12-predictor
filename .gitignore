@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+da-12 predictor
 # C extensions
 *.so
 
